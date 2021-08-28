@@ -22,4 +22,5 @@
 
 <a href="https://discord.com/users/585019634835783700"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/585019634835783700?bg=2E3440&animated=true&borderRadius=3px&idleMessage=I%20don%27t%20have%20anything%20to%20do%20now,%20so%20I%27m%20taking%20a%20break.%20If%20you%20need%20any%20help,%20you%20can%20DM%20me.%20<3"/></a>
 
-[![SeyaWhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyawhy&theme=nord&count_private=true&show_icons=true&include_all_commits=boolean&hide_border=2E3440&line_height=28&custom_title=냥)](https://github.com/SeyaWhy)
+<!-- [![SeyaWhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyawhy&theme=nord&count_private=true&show_icons=true&include_all_commits=boolean&hide_border=2E3440&line_height=28&custom_title=냥)](https://github.com/SeyaWhy)
+ -->
