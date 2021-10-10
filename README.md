@@ -28,4 +28,4 @@
 
 <!-- Storage: https://m.blog.naver.com/599460/221829044416 -->
 
-## <div style="text-align: left">۰•● About Me ●•۰</div>
+## <div style="text-align: left">About Me</div>
