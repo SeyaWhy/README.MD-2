@@ -36,8 +36,8 @@
 Hello, I'm Seya!
 Good day!
 
-I am a JavaScript Developer from South Korea.ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤI am interested in big data and deep learning. I love reading, study japanese and communicate!
-
+I am a JavaScript Developer from South Korea.
+I am interested in big data and deep learning. I love reading, study japanese and communicate!
 If you want to contact me, please leave me a message! (Discord)
 
 #
