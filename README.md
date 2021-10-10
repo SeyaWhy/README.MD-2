@@ -46,7 +46,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_pug.svg"></code> -->
 
-<a href="https://discord.com/users/585019634835783700"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/585019634835783700?bg=2E3440&animated=true&hideBadges=true&borderRadius=0px&idleMessage=❤  ! Welcome to my GitHub ! ❤"/></a> <!-- &borderRadius=3px -->
+<a href="https://discord.com/users/585019634835783700"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/585019634835783700?bg=2E3440&animated=true&hideBadges=true&borderRadius=0px&idleMessage=❤  ! Welcome to my GitHub ! ❤"/></a>ㅤ<!-- &borderRadius=3px -->
 
 
 
