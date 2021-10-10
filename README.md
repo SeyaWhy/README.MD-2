@@ -50,7 +50,7 @@
 
 
 
-### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[ About Me ]
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[ About Me ]
  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 🤍 Hello, I'm Seya! 🤍
 
 I am a JavaScript Developer from South Korea.
