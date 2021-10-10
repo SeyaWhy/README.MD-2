@@ -16,7 +16,7 @@
 |Team [2]|Tema Kymayo|
 
 
-### ㅤㅤㅤTech Stacks
+### ㅤㅤㅤㅤTech Stacks
 <div align=center>
 
 <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -50,7 +50,7 @@
 
 
 
-### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[ About Me ]
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[ About Me ]
  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 🤍 Hello, I'm Seya! 🤍
 
 I am a JavaScript Developer from South Korea.
