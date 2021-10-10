@@ -23,11 +23,8 @@
 
 <a href="https://discord.com/users/585019634835783700"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/585019634835783700?bg=2E3440&animated=true&hideBadges=true&borderRadius=0px&idleMessage=❤ Welcome to my GitHub❤"/></a> <!-- &borderRadius=3px -->
 ##
-| th | th | th |
-|---|---|---|
-| 지원 | 미지원 | 지원
-| 미지원 | 지원 | 지원   
-| 미지원 | 지원 | 지원 
+
+<!-- ICON: https://simpleicons.org -->
 
 <!-- [![SeyaWhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyawhy&theme=nord&count_private=true&show_icons=true&include_all_commits=boolean&hide_border=2E3440&line_height=28&custom_title=냥)](https://github.com/SeyaWhy)
  -->
