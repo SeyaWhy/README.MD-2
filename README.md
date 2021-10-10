@@ -15,6 +15,16 @@
 |Team [1]|Team Kawana|
 |Team [2]|Tema Kymayo|
 
+
+## ㅤㅤㅤTech Stacks
+<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Nodejs&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+
+
+<!-- 
 ## ㅤㅤㅤLanguages
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></code>
@@ -27,7 +37,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_pug.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_pug.svg"></code> -->
 
 <a href="https://discord.com/users/585019634835783700"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/585019634835783700?bg=2E3440&animated=true&hideBadges=true&borderRadius=0px&idleMessage=❤  ! Welcome to my GitHub ! ❤"/></a> ㅤㅤ<!-- &borderRadius=3px -->
 
