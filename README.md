@@ -5,7 +5,7 @@
 |Gender|she / her|
 |Hobbies|Coding / Drawing|
 |Languages|🇰🇷 / 🇯🇵 / 🇺🇸|
-|Team|Team Kawana / Team Tkmayo|
+|Team|Team Kawana / Tkmayo|
 
 ## Languages: 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></code>
