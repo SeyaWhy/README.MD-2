@@ -33,9 +33,9 @@
 Hello, I'm Seya!
 Good day!
 
-I am a JavaScript Developer from South Korea (🇰🇷).I am interested in big data and deep learning. I love reading, exercising and communicating!
+I am a JavaScript Developer from South Korea (🇰🇷).I am interested in big data and deep learning. I love reading, study japanese and communicate!
 
-If you want to contact me, please leave me a message!
+If you want to contact me, please leave me a message! (Discord)
 <!-- ICON: https://simpleicons.org -->
 
 <!-- [![SeyaWhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyawhy&theme=nord&count_private=true&show_icons=true&include_all_commits=boolean&hide_border=2E3440&line_height=28&custom_title=냥)](https://github.com/SeyaWhy)
