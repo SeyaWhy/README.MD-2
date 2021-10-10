@@ -32,8 +32,8 @@
 <a href="https://discord.com/users/585019634835783700"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/585019634835783700?bg=2E3440&animated=true&hideBadges=true&borderRadius=0px&idleMessage=❤ Welcome to my GitHub❤"/></a> ㅤㅤ<!-- &borderRadius=3px -->
 
 
-### ㅤㅤㅤㅤㅤㅤㅤㅤㅤAbout Me
- ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🤍 Hello, I'm Seya! 🤍
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤAbout Me
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤ Hello, I'm Seya! 🤍
 
 I am a JavaScript Developer from South Korea.
 I am interested in big data and deep learning. I love reading, study japanese and communicate!
