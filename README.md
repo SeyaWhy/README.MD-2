@@ -3,10 +3,9 @@
 |About|Me|
 |:--:|:--:|
 |Gender|she / her|
-|Languages|🇰🇷 / 🇯🇵 / 🇺🇸|
-|Team|Team Kawana|
 |Hobbies|Coding / Drawing|
-|MBTI|ISTJ|
+|Languages|🇰🇷 / 🇯🇵 / 🇺🇸|
+|Team|Team Kawana / Team Tkmayo|
 
 ## Languages: 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></code>
