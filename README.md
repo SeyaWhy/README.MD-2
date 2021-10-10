@@ -1,11 +1,11 @@
 <a href="https://www.youtube.com/watch?v=D0ehC_8sQuU"><img align="left" src="https://cdn.discordapp.com/attachments/644776656203939850/879624289052135484/68747470733a2f2f692e696d6775722e636f6d2f394e757a5558612e676966.gif"/></a>
 
-|About|Me|
+|Simple|ntroduction|
 |:--:|:--:|
 |Gender|she / her|
-|Hobbies|Coding / Drawing|
 |Languages|🇰🇷 / 🇯🇵 / 🇺🇸|
-|Team|Team Kawana / Tkmayo|
+|Team [1]|Team Kawana|
+|Team [2]|Tema Kymayo|
 
 ## Languages: 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></code>
@@ -26,6 +26,6 @@
 <!-- [![SeyaWhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyawhy&theme=nord&count_private=true&show_icons=true&include_all_commits=boolean&hide_border=2E3440&line_height=28&custom_title=냥)](https://github.com/SeyaWhy)
  -->
 
-
+<!-- Storage: https://m.blog.naver.com/599460/221829044416 -->
 
 ## test: 
