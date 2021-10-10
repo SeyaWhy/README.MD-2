@@ -6,7 +6,7 @@
 |Languages|🇰🇷 / 🇯🇵 / 🇺🇸|
 |Team|Team Kawana|
 |Hobbies|Coding / Drawing|
-|MBTI|ISTJ-T|
+|MBTI|ISTJ|
 
 ## Languages: 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></code>
