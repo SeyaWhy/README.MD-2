@@ -1,11 +1,3 @@
-<div align=center>
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeyaWhy&count_bg=%2384B4FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://github.com/SeyaWhy)
- 
-</div>
-
-#
-
 <a href="https://www.youtube.com/watch?v=D0ehC_8sQuU"><img align="left" src="https://cdn.discordapp.com/attachments/644776656203939850/879624289052135484/68747470733a2f2f692e696d6775722e636f6d2f394e757a5558612e676966.gif"/></a>
 
 |Simple|Introduction|
@@ -55,8 +47,7 @@
 
 I am a JavaScript Developer from South Korea.
 I am interested in big data and deep learning. I love reading, study japanese and communicate!
-If you want to contact me, please leave me a message! (Discord)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-#
+If you want to contact me, please leave me a message! (Discord)
 <!-- ICON: https://simpleicons.org -->
 
 <!-- [![SeyaWhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyawhy&theme=nord&count_private=true&show_icons=true&include_all_commits=boolean&hide_border=2E3440&line_height=28&custom_title=냥)](https://github.com/SeyaWhy)
