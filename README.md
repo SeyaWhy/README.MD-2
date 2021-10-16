@@ -8,7 +8,7 @@
 |Team [2]|Tema Kymayo|
 
 
-### ㅤㅤㅤㅤ[ Tech Stacks ]
+### ㅤㅤㅤ[ Tech Stacks ]
 <div align=center>
 
 <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
