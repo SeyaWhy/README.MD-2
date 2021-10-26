@@ -1,5 +1,4 @@
 <a href="https://www.youtube.com/watch?v=D0ehC_8sQuU"><img align="left" src="https://cdn.discordapp.com/attachments/644776656203939850/879624289052135484/68747470733a2f2f692e696d6775722e636f6d2f394e757a5558612e676966.gif"/></a>
-
 |Simple|Introduction|
 |:--:|:--:|
 |Gender|she / her|
