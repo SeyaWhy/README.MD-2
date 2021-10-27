@@ -41,8 +41,8 @@
 
 
 
-### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[ About Me ]
- ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 🤍 Hello, I'm Seya! 🤍
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤ[ About Me ]
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 🤍 Hello, I'm Seya! 🤍
 
 I am a JavaScript Developer from South Korea.
 I am interested in big data and deep learning. I love reading, study japanese and communicate!
