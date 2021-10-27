@@ -3,9 +3,8 @@
 |Simple|Introduction|
 |:--:|:--:|
 |Gender|she / her|
-|Languages|🇰🇷 / 🇯🇵 / 🇺🇸|
+|Languages|🇰🇷/🇯🇵/🇺🇸|
 |Team [1]|Team Kawana|
-|Team [2]|Tema Kymayo|
 
 
 ### ㅤㅤㅤ[ Tech Stacks ]
