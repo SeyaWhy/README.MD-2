@@ -3,7 +3,7 @@
 |About|Me|
 |:--:|:--:|
 |Gender|she / her|
-|Langs|🇰🇷/🇯🇵/🇺🇸|
+|Langs|🇰🇷 / 🇯🇵 / 🇺🇸|
 |Team|Team Kawana|
 
 
