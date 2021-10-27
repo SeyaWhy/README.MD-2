@@ -4,7 +4,7 @@
 |:--:|:--:|
 |Gender|she / her|
 |Langs|🇰🇷/🇯🇵/🇺🇸|
-|Team [1]|Team Kawana|
+|Team|Team Kawana|
 
 
 ### ㅤㅤㅤ[ Tech Stacks ]
